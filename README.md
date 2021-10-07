@@ -4,7 +4,7 @@ Voice often reflects underlying emotion through tone and pitch. Based on this fa
 
 > **Dataset**   
 [RAVDESS dataset](https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view)  
-This dataset has 7356 files rated by 247 individuals 10 times on emotional validity, intensity, and genuineness.
+- This dataset has 7356 files rated by 247 individuals 10 times on emotional validity, intensity, and genuineness.
 
 > Some libraries used particularly for this project:  
 - librosa
